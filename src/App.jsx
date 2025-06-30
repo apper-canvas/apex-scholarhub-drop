@@ -141,6 +141,8 @@ function App() {
           style={{ zIndex: 9999 }}
         />
       </div>
-    </AuthContext.Provider>
+</AuthContext.Provider>
   )
 }
+
+export default App

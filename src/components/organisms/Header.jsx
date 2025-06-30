@@ -71,6 +71,8 @@ const Header = ({ onMenuClick, title = 'Dashboard' }) => {
           </Button>
         </div>
       </div>
-    </motion.header>
+</motion.header>
   )
 }
+
+export default Header
